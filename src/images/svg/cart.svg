@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.797"
+   height="35.452"
+   viewBox="0 0 35.797 35.452"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="cart.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1222"
+     inkscape:window-height="711"
+     id="namedview8"
+     showgrid="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:zoom="6.6568882"
+     inkscape:cx="17.8985"
+     inkscape:cy="17.726"
+     inkscape:window-x="481"
+     inkscape:window-y="210"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Gruppe_3" />
+  <g
+     id="Gruppe_3"
+     data-name="Gruppe 3"
+     transform="translate(-412.341 -331.446)">
+    <path
+       id="Pfad_6"
+       data-name="Pfad 6"
+       d="M447.867,339.456a1.811,1.811,0,0,0-1.553-.869H418.093v-6.458a.683.683,0,0,0-.683-.683h-4.386a.683.683,0,0,0,0,1.367h3.7v23.661a1.824,1.824,0,0,0,1.823,1.822h19.637a1.815,1.815,0,0,0,1.626-1l8.127-16.062A1.814,1.814,0,0,0,447.867,339.456Zm-1.148,1.161-8.126,16.063a.454.454,0,0,1-.407.249H418.549a.456.456,0,0,1-.456-.455v-16.52h28.221a.455.455,0,0,1,.4.663Z"
+       fill="#313133"
+       style="fill:#ffffff" />
+    <path
+       id="Pfad_7"
+       data-name="Pfad 7"
+       d="M420.628,359.55a3.674,3.674,0,1,0,3.674,3.674A3.678,3.678,0,0,0,420.628,359.55Zm0,5.981a2.307,2.307,0,1,1,2.307-2.307A2.31,2.31,0,0,1,420.628,365.531Z"
+       fill="#313133"
+       style="fill:#ffffff" />
+    <path
+       id="Pfad_8"
+       data-name="Pfad 8"
+       d="M435.746,359.55a3.674,3.674,0,1,0,3.674,3.674A3.678,3.678,0,0,0,435.746,359.55Zm0,5.981a2.307,2.307,0,1,1,2.307-2.307A2.31,2.31,0,0,1,435.746,365.531Z"
+       fill="#313133"
+       style="fill:#ffffff" />
+  </g>
+</svg>

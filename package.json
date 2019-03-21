@@ -1,0 +1,23 @@
+{
+  "name": "fruitsshop_react",
+  "version": "1.0.0",
+  "description": "Animared Shop UI built with React.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --out-dir build"
+  },
+  "keywords": [],
+  "author": "Tomas Töws",
+  "license": "none",
+  "devDependencies": {
+    "autoprefixer": "^9.4.10",
+    "babel-core": "^6.26.3",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "parcel-bundler": "^1.12.2",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "sass": "^1.17.2"
+  }
+}
